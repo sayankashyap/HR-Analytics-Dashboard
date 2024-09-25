@@ -1,4 +1,4 @@
-My goal was to assist organizations in improving employee retention and performance by creating a comprehensive HR Analytics Dashboard.
+My goal was to assist organizations in improving employee retention and performance by creating a comprehensive HR Analytics Dashboard!!
 
 - Extracted the client-provided data.
 - Loaded the data into Power BI, removed nulls and duplicates, corrected spelling errors, and adjusted data types using Power Query.
